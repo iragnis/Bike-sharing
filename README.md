@@ -1,5 +1,6 @@
 # Bike Sharing Demand using AutoGluon
-This project has been developed as a part of a Nanodegree program wherein the bike sharing dataset from kaggle has to be trained using Autogluon.
+This project has been developed as a part of a Nanodegree program wherein the Kaggle's Bike Sharing Demand dataset has to be downloaded
+and a model needs to be trained using Autogluon library.The score obtained should then be submitted for consideration on Kaggle's leaderboard
 ## Dependancies
 ```
  Python 3.7
